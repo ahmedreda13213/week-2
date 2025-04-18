@@ -1,0 +1,21 @@
+q1
+1.default constructor:
+a constructor that takes no parameters. it initializes object attributes with default values
+2.overload constructor:
+allow creating objects in different ways by having multiple constructors with different parameters
+3.Copy Constructor:
+a constructor that creates a new object by copying the values of an existing object
+--------------------------------------------------------
+q2
+Destructor:
+a destructor is  function in a class that is called automatically when an object is destroyed
+When is it invoked:
+When an object goes out of scope and delete is used on allocated object.
+-----------------------------------
+q3
+Static Member:
+belongs to the class, not to object
+accessed using className::member not object
+Instance Member:
+belongs to each object
+accessed using object.member

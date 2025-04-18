@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1743083432 source:d:\book-projectv2\book.cpp
+	"Book.h"
+
+1743074655 d:\book-projectv2\book.h
+	<iostream>
+	<string>
+
+1743104005 source:d:\book-projectv2\main.cpp
+	<iostream>
+	"library.h"
+
+1743104225 d:\book-projectv2\library.h
+	"book.h"
+
+1743104226 source:d:\book-projectv2\library.cpp
+	"library.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1743083432 source:c:\users\smart\desktop\week2-ahmed reda-01142897731\book-projectv2\book.cpp
+	"Book.h"
+
+1743074655 c:\users\smart\desktop\week2-ahmed reda-01142897731\book-projectv2\book.h
+	<iostream>
+	<string>
+
+1743104226 source:c:\users\smart\desktop\week2-ahmed reda-01142897731\book-projectv2\library.cpp
+	"library.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1743104225 c:\users\smart\desktop\week2-ahmed reda-01142897731\book-projectv2\library.h
+	"book.h"
+
+1743104250 source:c:\users\smart\desktop\week2-ahmed reda-01142897731\book-projectv2\main.cpp
+	<iostream>
+	"library.h"
+
